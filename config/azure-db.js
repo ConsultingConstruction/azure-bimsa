@@ -1,5 +1,5 @@
 require('dotenv').config();
-
+//
 const sqlConfig = {
   user: process.env.user,
   password: process.env.password,
